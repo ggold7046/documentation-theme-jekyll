@@ -26,7 +26,7 @@ If you've never installed or run a Jekyll site locally on your computer, follow 
 
 ### 3. Install Bundler
 
-In case you haven't installed Bundler, install it:
+In case you haven't installed Bundler, install it now:
 
 ```
 gem install bundler
